@@ -15,9 +15,9 @@ Write a program that reads a file containing a sorted list of words, then identi
 
 ## Implementation
 
-1. Read the file and determine the minimum length and second minimum length and also store these words in a dictionary( This will help for easy lookup)
-2. Loop through the word list and ONLY compute words that has length more than the sum of minimum length and second minimum length as we are only interested on the concatenated words. 
-3. If the current word can be computed with the other words in the file. Perform the following:
-          i. Add these words for a separate word list as this word can be used for upcoming words(e.g: abc, efg, abcefg, ij, abcefgij) => This can be computer with abcefg + ij rather than abc+efg+ij
-          ii. Determine the largest and second largest word in the result dictionary.
+1. Read the file to determine the minimum length, second minimum length and also, store these words in a dictionary (This will help in easy lookup for computation purposes).
+2. Loop through the word list and ONLY validate words that have length greater than the sum of minimum length and second minimum length as we are only interested in the concatenated words. 
+3. If the current word can be computed with the other words in the file, perform the following:
+          i. All the valid words are stored in a resultant dictionary and this dictinary is used for computing other words in the file.(e.g: abc, efg, abcefg, ij, abcefgij) => This can be computed as abcefg + ij rather than abc+efg+ij
+          ii. Determine the largest and second largest word in the resultant dictionary.
 
