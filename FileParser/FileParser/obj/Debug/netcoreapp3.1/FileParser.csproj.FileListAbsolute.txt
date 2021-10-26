@@ -1,0 +1,17 @@
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\FileParser.exe
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\FileParser.deps.json
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\FileParser.runtimeconfig.json
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\FileParser.runtimeconfig.dev.json
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\FileParser.dll
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\FileParser.pdb
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.csproj.GenerateResource.cache
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.AssemblyInfoInputs.cache
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.AssemblyInfo.cs
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.dll
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.pdb
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.genruntimeconfig.cache
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\InputData.txt
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.ResultDisplayer.resources
+C:\Users\rk105807\source\repos\FileParser\FileParser\obj\Debug\netcoreapp3.1\FileParser.csprojAssemblyReference.cache
+C:\Users\rk105807\source\repos\FileParser\FileParser\bin\Debug\netcoreapp3.1\InputData_Raghu.txt
